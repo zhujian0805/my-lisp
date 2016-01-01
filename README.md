@@ -1,2 +1,2 @@
-# my-lisp
-This repo is for learning LISP
+[NOTEs]
+http://www.tutorialspoint.com/lisp/index.htm
